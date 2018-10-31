@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/kevinhunter/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/3ce633b9a559bfcae224c9348b8014f9/AndroidManifest.xml:17:1-22:12
+MERGED from [top.imlk.xpmodulemultidex:XposedModuleMultidex:1.0.0] /Users/kevinhunter/.gradle/caches/transforms-1/files-1.1/XposedModuleMultidex-1.0.0.aar/63d9d8baa58f7c5710a82686a0327181/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:4:5-28:19
+	android:label
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:6:9-45
+	android:allowBackup
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:8:9-40
+activity#com.android.reverse.client.MainActivity
+ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:9:9-17:20
+	android:label
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:11:13-45
+	android:name
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:10:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:15:27-74
+meta-data#xposedmodule
+ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:19:9-21:36
+	android:value
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:21:13-33
+	android:name
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:20:13-40
+meta-data#xposedminversion
+ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:22:9-24:34
+	android:value
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:24:13-31
+	android:name
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:23:13-44
+meta-data#xposeddescription
+ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:25:9-27:83
+	android:value
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:27:13-80
+	android:name
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml:26:13-45
+uses-sdk
+INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /Users/kevinhunter/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/3ce633b9a559bfcae224c9348b8014f9/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/kevinhunter/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/3ce633b9a559bfcae224c9348b8014f9/AndroidManifest.xml:20:5-43
+MERGED from [top.imlk.xpmodulemultidex:XposedModuleMultidex:1.0.0] /Users/kevinhunter/.gradle/caches/transforms-1/files-1.1/XposedModuleMultidex-1.0.0.aar/63d9d8baa58f7c5710a82686a0327181/AndroidManifest.xml:7:5-9:41
+MERGED from [top.imlk.xpmodulemultidex:XposedModuleMultidex:1.0.0] /Users/kevinhunter/.gradle/caches/transforms-1/files-1.1/XposedModuleMultidex-1.0.0.aar/63d9d8baa58f7c5710a82686a0327181/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinhunter/Downloads/ZjDroid/app/src/main/AndroidManifest.xml
